@@ -6,4 +6,4 @@
 |     2| English              |
 |     3| Swedish              |
 ### Kuva kissasta minun sijaan
-![kuva kissasat](c:\Users\sakot\OneDrive\Kuvat\Saved Pictures\otus.jpg)
+![otus](otus.jpg)
