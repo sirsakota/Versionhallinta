@@ -1,5 +1,5 @@
 # Versionhallinta tehtävä
-## Most proficient lnaguages
+## Most proficient languages
 | Rank | Languages |
 |-----:|---------------|
 |     1| Finnish              |
