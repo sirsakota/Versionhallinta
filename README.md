@@ -2,8 +2,8 @@
 ## Most proficient languages
 | Rank | Languages |
 |-----:|---------------|
-|     1| Finnish              |
-|     2| English              |
-|     3| Swedish              |
+|     1| HTML              |
+|     2| finnish              |
+|     3| english              |
 ### Kuva kissasta minun sijaan
 ![otus](otus.jpg)
